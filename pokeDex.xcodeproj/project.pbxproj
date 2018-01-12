@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D04A2FC2008331900148CDD /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 8D04A2FB2008331800148CDD /* pokemon.csv */; };
 		8D396359200713670032C67A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D396358200713670032C67A /* AppDelegate.swift */; };
 		8D39635B200713670032C67A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D39635A200713670032C67A /* ViewController.swift */; };
 		8D39635E200713670032C67A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D39635C200713670032C67A /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8D04A2FB2008331800148CDD /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		8D396355200713670032C67A /* pokeDex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pokeDex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D396358200713670032C67A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8D39635A200713670032C67A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				8D39635A200713670032C67A /* ViewController.swift */,
 				8D39635C200713670032C67A /* Main.storyboard */,
 				8D39635F200713670032C67A /* Assets.xcassets */,
+				8D04A2FB2008331800148CDD /* pokemon.csv */,
 				8D396361200713670032C67A /* LaunchScreen.storyboard */,
 				8D396364200713670032C67A /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				8D396363200713670032C67A /* LaunchScreen.storyboard in Resources */,
 				8D396360200713670032C67A /* Assets.xcassets in Resources */,
+				8D04A2FC2008331900148CDD /* pokemon.csv in Resources */,
 				8D39635E200713670032C67A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
